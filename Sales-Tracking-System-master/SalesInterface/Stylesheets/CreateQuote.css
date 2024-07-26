@@ -1,0 +1,54 @@
+﻿#custTableDiv {
+
+}
+
+#custInfoTable {
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.tableData {
+    padding: 5px;
+}
+
+#quoteForm {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
+
+#itemEntry {
+    float: right;
+    width: 375px;
+}
+
+.itemBox, .noteBox {
+    width: 350px;
+}
+
+#priceEntry {
+    float: right;
+    width: 75px;
+}
+
+.priceBox {
+    width: 75px;
+}
+
+#infoEntry {
+    float: left;
+    width: 375px;
+}
+
+.infoBox {
+
+}
+
+#menuDiv {
+    position: center;
+}
+
+#submitButton, #errorLabel {
+    float:right;
+}
+
